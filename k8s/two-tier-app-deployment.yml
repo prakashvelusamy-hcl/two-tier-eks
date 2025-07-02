@@ -19,7 +19,7 @@ spec:
           image: prakashvelusamy1999/prakash-hcl-k8s:flask_frontv1
           env:
             - name: MYSQL_HOST
-              value: "10.96.47.163"          # this is your mysql's service clusture IP, Make sure to change it with yours-
+              value: "10.110.79.67"          # this is your mysql's service clusture IP, Make sure to change it with yours-
             - name: MYSQL_PASSWORD
               value: "admin"
             - name: MYSQL_USER
