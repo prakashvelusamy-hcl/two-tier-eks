@@ -1,27 +1,4 @@
-# Two Tier Flask App
 
-
-<!-- - ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Tutorial video project ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-https://github.com/mdazfar2/two-tier-flask-app/assets/100375390/e54169da-ecba-4ea4-b75b-e75eaca5318a
-
-## Overview- 
-This project aims to deploy a scalable two-tier application running on Flask and MySQL, designed to handle 10,000 concurrent users while adhering to best DevOps practices. By leveraging Docker, Kubernetes, and AWS services, we ensure fault tolerance, scalability, and efficient deployment.
-
-## Features
-- **Scalability**: Designed to handle 10,000 concurrent users.
- 
-- **Fault Tolerance**: Utilizes Kubernetes on EKS for fault tolerance.
-
-- **Containerization**: Dockerized application for portability and consistency.
-
-- **Automated Deployment**: Automated Kubernetes cluster setup using HELM.
-
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Implemented DockerHub repository for versioning and continuous deployment.
-
-- **Improved Downtime**: Reduced downtime by 60% with AWS Managed EKS.
 
 
 # Step by Step guide for making this project-
@@ -120,8 +97,4 @@ This project aims to deploy a scalable two-tier application running on Flask and
    DELETE FROM messages;
    ```
 
-***This is all that I deployed two tier flask app using dockerising . If you stuck during making this project, feel free to ask anything. I love to help you. You can contact me on [LinkedIn](https://linkedin.com/in/md-azfar-alam), [Instagram](https://www.instagram.com/azfarxx_/) or [Discord](https://discord.com/users/877531143610708028)***
-
-
-## Keep Learning & Sharing.. ✨
    
